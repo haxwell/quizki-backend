@@ -1,8 +1,7 @@
-# quizki-backend
-
+# Quizki Backend
 Quizki is a question and answer database which generates exams. This is the backend of the project. For the frontend go to [team-quizki/frontend](https://github.com/team-quizki/quizki-frontend).
 
-This project was generated with  version 6.0.1.
+This project was generated with Spring Boot version 2.0.4.
 
 ## Getting Started
 Here is what you need to do to get the project up and running on your local machine for development and testing purposes.
@@ -38,11 +37,9 @@ You will only need to do this the first time you run the backend.
 You can check that it is working by entering the database. `$ mysql -u quizki2 -p quizki2_db`
 
 ## Running the Tests
-
 We do not currently have tests built for the backend
 
 ## Deployment
-
 The project is not yet ready for deployment. We will add additional notes about how to deploy this on a live system when it is ready.
 
 ## Built With
@@ -51,18 +48,15 @@ The project is not yet ready for deployment. We will add additional notes about 
 * Oracle [MySQL](https://www.mysql.com/)
 
 ## Getting Involved
-
-This is a project of the Denver Mock Programming Job group. Find us at our [Meetup page](https://www.meetup.com/Denver-Mock-Programming-Job-Meetup/)
+This is a project of the Denver Mock Programming Job group. Find us at our [Meetup page](https://www.meetup.com/Denver-Mock-Programming-Job-Meetup/). We use the Agile development process. We want to help you gain professional coding experience.
 
 ### Contributing
 Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
-
 This project is in alpha version.
 
 ## Authors
-
 * Jonathan
 * Jim
 * Deborah
@@ -71,9 +65,9 @@ This project is in alpha version.
 * 
 
 ## License
+The templated code is licensed by Google under an MIT-style License. Documentation licensed under CC BY 4.0.
 
-
+The [team-quizki](https://github.com/team-quizki) project is licensed under the GNU GENERAL PUBLIC LICENSE. The project originated from the quizki project copyright by [Johnathan James](https://github.com/haxwell). The purpose of the team-quizki open source project is to modernize quizki. 
 
 ## Acknowledgements
-
 We would like to thank our sponsors:
